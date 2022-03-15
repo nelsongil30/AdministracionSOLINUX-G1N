@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ultimotaller" id="0AB2C84A-D309-3903-7396-4709BA96119D" version="3.5">
-<createdBy>Andres</createdBy>
-<createdTime>2021-04-23 00:34:13 UTC</createdTime>
-<ownerDesignName>ultimotaller</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>0AB2C84A-D309-3903-7396-4709BA96119D</designId>
-</OSDM_Design>
