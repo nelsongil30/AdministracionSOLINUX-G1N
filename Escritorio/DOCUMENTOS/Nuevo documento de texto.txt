@@ -1,0 +1,46 @@
+media = 0
+i = 0
+while i < 400:
+    media += X[i]
+    i += 1 
+    r = media/400
+
+
+
+j = 0
+d=X
+while j < 400:
+    i += 1
+    d[j] += (X[j]-r)
+    
+    print(d)
+
+X = df.values[:,0:1]
+X2 = df.values[:,1:2]
+X3 = df.values[:,2:3]
+X4 = df.values[:,3:4]
+X5 = df.values[:,4:5]
+X6 = df.values[:,5:6]
+X7 = df.values[:,6:7]
+X8 = df.values[:,7:8]
+
+print(np.mean(X))
+print(np.mean(X2))
+print(np.mean(X3))
+print(np.mean(X4))
+print(np.mean(X5))
+print(np.mean(X6))
+print(np.mean(X7))
+print(np.mean(X8))
+
+
+
+
+print(np.std(X))
+print(np.std(X2))
+print(np.std(X3))
+print(np.std(X4))
+print(np.std(X5))
+print(np.std(X6))
+print(np.std(X7))
+print(np.std(X8))
